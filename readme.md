@@ -5,7 +5,7 @@
 Clone the repository
 
 ```
-git clone https://github.com/gregmiaritis/book-api.git
+git clone https://github.com/gregmiaritis/bookAPI.git
 ```
 
 Switch to the repo folder
